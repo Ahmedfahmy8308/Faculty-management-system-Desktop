@@ -45,17 +45,16 @@ The main goal of this project was to demonstrate the application of **Informatio
 Below are screenshots showcasing the application's functionality:
 
 ### Login Screen
-![Login Screen](screenshots/log-in.jpg)
+<img src="screenshots/log-in.jpg" alt="Login Screen" width="400">
 
 ### Affairs Module
-![Affairs](screenshots/affair-ui.jpg)
+<img src="screenshots/affair-ui.jpg" alt="Affairs Module" width="400">
 
 ### Professor Module
-![Professor Module](screenshots/doctor-ui-lec-details.jpg)
+<img src="screenshots/doctor-ui-lec-details.jpg" alt="Professor Module" width="400">
 
 ### Attendance with Face Recognition
-![Attendance](screenshots/take-attendance-face-recognition.jpg)
-
+<img src="screenshots/take-attendance-face-recognition.jpg" alt="Attendance with Face Recognition" width="400">
 ---
 
 ## 📂 Project Structure
