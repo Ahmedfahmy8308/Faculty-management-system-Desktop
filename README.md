@@ -48,7 +48,11 @@ Below are screenshots showcasing the application's functionality:
 <img src="screenshots/log-in.jpg" alt="Login Screen" width="400">
 
 ### Affairs Module
-<img src="screenshots/affair-ui.jpg" alt="Affairs Module" width="400">
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="screenshots/affair-ui.jpg" alt="Affairs Module 1" width="300">
+    <img src="screenshots/affairs-mange-doctor.jpg" alt="Affairs Module 3" width="300">
+    <img src="screenshots/affairs-add-new-doctor.jpg" alt="Affairs Module 2" width="300">
+</div>
 
 ### Professor Module
 <img src="screenshots/doctor-ui-lec-details.jpg" alt="Professor Module" width="400">
