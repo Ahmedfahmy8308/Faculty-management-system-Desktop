@@ -45,16 +45,16 @@ The main goal of this project was to demonstrate the application of **Informatio
 Below are screenshots showcasing the application's functionality:
 
 ### Login Screen
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/log-in.jpg)
 
-### Student Affairs Module
-![Student Affairs](screenshots/student_affairs.png)
+### Affairs Module
+![Affairs](screenshots/affair-ui.jpg)
 
 ### Professor Module
-![Professor Module](screenshots/professor_module.png)
+![Professor Module](screenshots/doctor-ui-lec-details.jpg)
 
 ### Attendance with Face Recognition
-![Attendance](screenshots/attendance_face_recognition.png)
+![Attendance](screenshots/take-attendance-face-recognition.jpg)
 
 ---
 
@@ -65,7 +65,6 @@ College-Management-System/
 ├── EncodeFile.p           # Encoded data for facial recognition
 ├── serviceAccountKey.json # Firebase configuration file
 ├── screenshots/           # Folder containing screenshots
-├── .idea/                 # Project settings and metadata (IDE-specific)
 ├── doctor/                # Code related to professor module
 ├── images/                # Static images used in the application
 ├── login/                 # Login module files
